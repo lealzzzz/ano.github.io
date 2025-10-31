@@ -1,5 +1,4 @@
 [valentine-confession.html](https://github.com/user-attachments/files/23250938/valentine-confession.html)
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta charset="UTF-8">
@@ -20,7 +19,7 @@
             <input id="messageState" type="checkbox" style="display:none"/>
             </label>
             <div class="message">
-                <h1 style="font-family: Cinzel, serif; font-size: 40px; letter-spacing: 1.2px;">Dear Crush,</h1>
+                <h1 style="font-family: Cinzel, serif; font-size: 40px; letter-spacing: 1.2px;">HIIII!,</h1>
                 <p> 
                     <span>
                         &emsp; I've been keeping this in for a while, but I think Valentine's Day is the perfect time to say it—you’re the reason my days feel brighter. Every little moment with you means more than I can put into words. Your smile, your laughter, the way you make everything feel lighter—it all makes my heart race in the best way possible.
@@ -32,8 +31,8 @@
                 </p>
                 <br>
                 <div class="sincere">
-                    <p style="font-weight: bold;"> With Love,</p>
-                    <p>Your Admirer</p>
+                    <p style="font-weight: bold;"></p>
+                    <p></p>
                  </div>
             </div>
         </div>
@@ -43,4 +42,3 @@
         <script defer src="valentine-confession.js"></script>
     </body>
 </html>
-
