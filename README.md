@@ -22,7 +22,7 @@
                 <h1 style="font-family: Cinzel, serif; font-size: 40px; letter-spacing: 1.2px;">HIIII!,</h1>
                 <p> 
                     <span>
-                        &emsp; I've been keeping this in for a while, but I think Valentine's Day is the perfect time to say it—you’re the reason my days feel brighter. Every little moment with you means more than I can put into words. Your smile, your laughter, the way you make everything feel lighter—it all makes my heart race in the best way possible.
+                        &emsp; I’ve been meaning to tell you this for a while now, but I never really found the right time—or maybe I was just too nervous to say it. But today, I finally decided to be honest about what I feel. Every time we talk, even about small things, you somehow make my day a little brighter. I catch myself smiling when I think about our conversations, and honestly, I realize that I’ve started to like you—more than just a friend.
                     </span>
                     <br> <br>
                     <span>
@@ -35,10 +35,12 @@
                     <p></p>
                  </div>
             </div>
-        </div>
-        
-        <script src="jquery.js"></script>
+        </div>     
+    <script src="jquery.js"></script>
         <script src="jquery2.1.js"></script>
         <script defer src="valentine-confession.js"></script>
     </body>
-</html>
+</html>[jquery2.1.js](https://github.com/user-attachments/files/23251221/jquery2.1.js)
+[valentine-confession.css](https://github.com/user-attachments/files/23251222/valentine-confession.css)[jquery.js](https://github.com/user-attachments/files/23251224/jquery.js)
+[valentine-confession.js](https://github.com/user-attachments/files/23251223/valentine-confession.js)
+
